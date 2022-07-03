@@ -2,9 +2,12 @@
 一个前端只写json，结合golang后端的快速搭建后台的项目
 
 ## 相关技术
-ui: [amis](https://github.com/baidu/amis)
-后端：[gin](https://github.com/gin-gonic/gin)
-资源一键打包：embed
+ui: [amis](https://github.com/baidu/amis),
+
+后端：[gin](https://github.com/gin-gonic/gin),
+
+资源一键打包：embed,
+
 热加载：[air](https://github.com/cosmtrek/air)
 
 ## 使用
